@@ -6,7 +6,7 @@ The app's user interface is made up of various components, including a search ba
 
 
 🔗  Key Links 🔗
-- Github: 
+- Github: https://github.com/nadirbekzat/Angular-Movies-Platform-App.git
 
 
 ## Install with npm
